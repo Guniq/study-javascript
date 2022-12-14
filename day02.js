@@ -96,3 +96,4 @@ console.log(typeof null, typeof x);
 
 // null 여부는 아래와 같이 확인할 것
 console.log(x === null); // true
+
